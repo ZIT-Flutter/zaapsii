@@ -6,6 +6,7 @@ import 'package:get/get_navigation/src/root/get_material_app.dart';
 import 'package:zapps/views/splash_screen.dart';
 
 import 'AppRoutes.dart';
+//adfho
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
